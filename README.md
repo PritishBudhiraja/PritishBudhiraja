@@ -22,7 +22,7 @@
 
 - Senior Software Engineer at **[TestZeus](https://www.testzeus.com)** — Building AI-powered testing automation platforms
 - Previously at **[Juspay](https://juspay.in)** — Shipped payment solutions powering millions of transactions
-- B.Tech in Computer Science from **KIIT** (9.60 CGPA)
+- B.Tech in Computer Science from **KIIT**
 - Based in **Bangalore, India**
 
 I specialize in frontend architecture, building scalable React applications, and cloud infrastructure. I love turning complex problems into elegant, user-friendly solutions.
