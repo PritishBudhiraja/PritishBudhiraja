@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Senior+Software+Engineer+%40+TestZeus;Building+AI-powered+testing+platforms;React+%C2%B7+TypeScript+%C2%B7+Kubernetes;Previously+%40+Juspay+%E2%80%94+Hyperswitch" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Full+Stack+Engineer+%40+TestZeus;Building+AI-powered+testing+platforms;React+%C2%B7+Node.js+%C2%B7+Python+%C2%B7+Kubernetes;Frontend+to+backend+%E2%80%94+end+to+end" alt="Typing SVG" />
   </a>
 </p>
 
@@ -25,12 +25,12 @@
 
 ## 👋 About Me
 
-- 🚀 Senior Software Engineer at **[TestZeus](https://www.testzeus.com)** — building AI-powered testing automation platforms
-- 💳 Previously at **[Juspay](https://juspay.in)** — shipped payment solutions and contributed to open-source **[Hyperswitch](https://github.com/juspay/hyperswitch)**
+- 🚀 Senior Software Engineer at **[TestZeus](https://www.testzeus.com)** — full-stack work on AI-powered testing automation (React, Python, Kubernetes)
+- 💳 Previously at **[Juspay](https://juspay.in)** — shipped payment SDKs, dashboards, and backend integrations for **[Hyperswitch](https://github.com/juspay/hyperswitch)**
 - 🎓 B.Tech in Computer Science from **KIIT**
 - 📍 Based in **Bangalore, India**
 
-I specialize in frontend architecture, scalable React applications, and cloud infrastructure — turning complex problems into elegant, user-friendly products.
+Full-stack engineer across the stack — React/TypeScript frontends, Node.js/Python APIs, AI agent workflows, and cloud-native delivery on Docker & Kubernetes.
 
 ---
 
@@ -38,18 +38,24 @@ I specialize in frontend architecture, scalable React applications, and cloud in
 
 | Project | Description |
 | ------- | ----------- |
-| [**juspay/hyperswitch**](https://github.com/juspay/hyperswitch) | Open-source composable payments platform powering enterprise integrations |
-| [**juspay/hyperswitch-web**](https://github.com/juspay/hyperswitch-web) | ReScript-powered Web SDK for seamless payment integration |
-| [**juspay/hyperswitch-control-center**](https://github.com/juspay/hyperswitch-control-center) | Merchant dashboard for configuring payment connectors |
-| [**Portfolio**](https://www.pritishbudhiraja.com) | Personal site built with Next.js, Framer Motion, and Tailwind CSS |
+| [**juspay/hyperswitch**](https://github.com/juspay/hyperswitch) | Open-source payments platform — Rust backend, enterprise payment orchestration |
+| [**juspay/hyperswitch-web**](https://github.com/juspay/hyperswitch-web) | ReScript/React Web SDK — payment UI, white-labeling, bundle optimization |
+| [**juspay/hyperswitch-control-center**](https://github.com/juspay/hyperswitch-control-center) | Full-stack merchant dashboard — ReScript frontend + connector configuration APIs |
+| [**Portfolio**](https://www.pritishbudhiraja.com) | Personal site — Next.js, Framer Motion, Tailwind CSS |
 
 ---
 
 ## 🛠 Tech Stack
 
+**Frontend** · React · Next.js · TypeScript · ReScript · Tailwind CSS
+
+**Backend & AI** · Node.js · Python · FastAPI · REST APIs · Agentic AI workflows
+
+**Infra & Data** · Docker · Kubernetes · AWS · MongoDB · MySQL · DynamoDB · Redis
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,docker,k8s,aws,nodejs,python,mongodb,mysql,github,vercel&perline=7" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,python,fastapi,docker,k8s,aws,mongodb,mysql,redis,github,vercel&perline=8" alt="My Skills" />
   </a>
 </p>
 
@@ -57,10 +63,10 @@ I specialize in frontend architecture, scalable React applications, and cloud in
 
 ## 🔨 Currently Building
 
-- **Teach Agent workflow** — Steel Dev browser automation + AI-generated Gherkin scenarios and Python tests
-- **Composio integrations** — 15+ connected-app integrations across source control and enterprise tools
-- **Usage-based billing** — Flexprice + Redis quota enforcement with real-time event monitoring
-- **Platform reliability** — Kubernetes/GKE deployments, Sentry observability, and deployment health checks
+- **AI Teach Agent** — browser automation (Steel Dev) → AI-generated Gherkin + executable Python tests
+- **Composio integration service** — backend for 15+ app connectors, knowledge bases, AI test generation
+- **Usage-based billing** — Flexprice + Redis APIs, quota enforcement, real-time usage tracking
+- **Full-stack platform** — React/Vite frontend, Python services, GKE deployments, Sentry observability
 
 ---
 
