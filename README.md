@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Full+Stack+Engineer+%40+TestZeus;Building+AI-powered+testing+platforms;React+%C2%B7+Node.js+%C2%B7+Python+%C2%B7+Kubernetes;Frontend+to+backend+%E2%80%94+end+to+end" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Full-stack+AI+builder;Shipping+ideas+from+UI+to+infra;Building+at+TestZeus;Previously+%40+Juspay" alt="Typing SVG" />
   </a>
 </p>
 
@@ -25,12 +25,12 @@
 
 ## 👋 About Me
 
-- 🚀 Senior Software Engineer at **[TestZeus](https://www.testzeus.com)** — full-stack work on AI-powered testing automation (React, Python, Kubernetes)
-- 💳 Previously at **[Juspay](https://juspay.in)** — shipped payment SDKs, dashboards, and backend integrations for **[Hyperswitch](https://github.com/juspay/hyperswitch)**
+- 🚀 **Full-stack AI builder** at **[TestZeus](https://www.testzeus.com)**
+- 💳 Previously at **[Juspay](https://juspay.in)** — helped ship **[Hyperswitch](https://github.com/juspay/hyperswitch)**
 - 🎓 B.Tech in Computer Science from **KIIT**
 - 📍 Based in **Bangalore, India**
 
-Full-stack engineer across the stack — React/TypeScript frontends, Node.js/Python APIs, AI agent workflows, and cloud-native delivery on Docker & Kubernetes.
+I build products end to end — from interfaces to APIs to deployment. Currently focused on AI-powered testing.
 
 ---
 
@@ -63,10 +63,9 @@ Full-stack engineer across the stack — React/TypeScript frontends, Node.js/Pyt
 
 ## 🔨 Currently Building
 
-- **AI Teach Agent** — browser automation (Steel Dev) → AI-generated Gherkin + executable Python tests
-- **Composio integration service** — backend for 15+ app connectors, knowledge bases, AI test generation
-- **Usage-based billing** — Flexprice + Redis APIs, quota enforcement, real-time usage tracking
-- **Full-stack platform** — React/Vite frontend, Python services, GKE deployments, Sentry observability
+- AI agents that turn browser sessions into executable tests
+- Integrations that connect apps, repos, and knowledge bases
+- Billing and usage systems for production AI platforms
 
 ---
 
