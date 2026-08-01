@@ -41,7 +41,6 @@ I build products end to end — from interfaces to APIs to deployment. Currently
 | [**juspay/hyperswitch**](https://github.com/juspay/hyperswitch) | Open-source payments platform — Rust backend, enterprise payment orchestration |
 | [**juspay/hyperswitch-web**](https://github.com/juspay/hyperswitch-web) | ReScript/React Web SDK — payment UI, white-labeling, bundle optimization |
 | [**juspay/hyperswitch-control-center**](https://github.com/juspay/hyperswitch-control-center) | Full-stack merchant dashboard — ReScript frontend + connector configuration APIs |
-| [**Portfolio**](https://www.pritishbudhiraja.com) | Personal site — Next.js, Framer Motion, Tailwind CSS |
 
 ---
 
@@ -68,18 +67,6 @@ I build products end to end — from interfaces to APIs to deployment. Currently
 - Billing and usage systems for production AI platforms
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PritishBudhiraja&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PritishBudhiraja&style=for-the-badge&color=6366f1" alt="Profile Views"/>
-</p>
 
 <p align="center">
   <i>Let's connect and build something amazing together!</i>
